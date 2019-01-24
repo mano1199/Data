@@ -1,7 +1,7 @@
-num = float(input())
-if(num<0):
-    print("invalid")
-elif (num % 2)== 0:
- print("Even")
+num = int(input())
+if num > 0:
+   print("Positive")
+elif num == 0:
+   print("Zero")
 else:
- print("Odd")
+   print("Negative")
