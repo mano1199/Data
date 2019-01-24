@@ -1,7 +1,7 @@
-ar = input("Enter a character: ")
+arul = input()
 
-if(ar=='A' or ar=='a' or ar=='E' or ar =='e' or ar=='I'
- or ar=='i' or ar=='O' or ar=='o' or ar=='U' or ar=='u'):
+if(arul=='A' or arul=='a' or arul=='E' or arul =='e' or arul=='I'
+ or arul=='i' or arul=='O' or arul=='o' or arul=='U' or arul=='u'):
     print("Vowel")
 else:
     print("Consonant")
