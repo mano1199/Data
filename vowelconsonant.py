@@ -5,3 +5,5 @@ if(arul=='A' or arul=='a' or arul=='E' or arul =='e' or arul=='I'
     print("Vowel")
 else:
     print("Consonant")
+  else:
+   print("Invalid")
